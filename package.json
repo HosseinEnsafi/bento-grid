@@ -1,0 +1,12 @@
+{
+  "name": "beneto-grid",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass:watch": "sass --watch app/sass/main.scss assets/styles/main.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
